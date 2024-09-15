@@ -61,10 +61,60 @@
             "Teutonic"
         ]
     ],
+    "Texas Facts": [
+        [
+            "Which Texan city is considered the live music capital of the world?",
+            "Austin"
+        ],
+        [
+            "What is the state bird of Texas?",
+            "Mockingbird"
+        ],
+        [
+            "Which US president was born in Texas?",
+            "Dwight D Eisenhower"
+        ],
+        [
+            "How many cattle are estimated to exist in Texas?",
+            "13 million"
+        ],
+        [
+            "What large body of water is off the Texas coast?",
+            "Gulf of Mexico"
+        ],
+        [
+            "Texas comes from the Caddo word Tejas, which means what?",
+            "Friends or Allies"
+        ],
+        [
+            "Texas has the country's largest herd of what kind of animal?",
+            "Buffalo"
+        ],
+        [
+            "Texas is called the ______ state.",
+            "Lone Star"
+        ],
+        [
+            "Which popular soft drink originated in Texas?",
+            "Dr Pepper"
+        ],
+        [
+            "What is the only US State with a larger land mass than Texas?",
+            "Alaska"
+        ],
+        [
+            "What is the only US state with a larger population than Texas?",
+            "California"
+        ],
+        [
+            "What natural resource gave Texas a large economic boom?",
+            "Oil"
+        ]
+    ]
     "American Presidents": [
         [
             "Who was the 1st president of the United States?",
-            " George Washington"
+            "George Washington"
         ],
         [
             "Who was the 2nd president of the United States?",
@@ -1186,11 +1236,15 @@
         ],
         [
             "What was Julius Caesar's motto?",
-            "I came, I saw, I conquered"
+            "I came, I saw, I conquered."
         ],
         [
             "Who was Margaret Thatcher?",
             "British Prime Minister"
+        ],
+        [
+            "King Henry VIII wanted to remarry, which contributed to the creation of which religion?",
+            "The Church of England"
         ]
     ],
     "Greek Mythology": [
@@ -2106,7 +2160,7 @@
         ],
         [
             "What is the state bird of Delaware?",
-            "Delaware Blue Hen"
+            "Blue Hen Chicken"
         ],
         [
             "What is the state bird of Florida?",
